@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Srivastav&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Django%20Engineer%20%7C%20BCA%20Graduate%202026&descAlignY=55&descSize=18&descColor=7dd3fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:7dd3fc&height=200&section=header&text=Shubham%20Srivastav&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20BCA%20Graduate%202026&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&random=false&width=700&lines=Python+%26+Django+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real+Things+with+Code+%F0%9F%9A%80;BCA+Graduate+2026+%F0%9F%8E%93;Open+to+Work+%E2%80%94+Let%27s+Connect!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&random=false&width=700&lines=Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+Things+with+Code;BCA+Graduate+2026;Open+to+Work+Let%27s+Connect!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Open to Work](https://img.shields.io/badge/🚀%20Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1c1c1c)](https://linkedin.com/in/shubham-srivastav2)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/shubham-srivastav2)
 [![Profile Views](https://komarev.com/ghpvc/?username=shubhamshrivastav477-creator&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS)](https://github.com/shubhamshrivastav477-creator)
 [![GitHub followers](https://img.shields.io/github/followers/shubhamshrivastav477-creator?style=for-the-badge&color=7dd3fc&labelColor=1c1c1c&label=FOLLOWERS)](https://github.com/shubhamshrivastav477-creator?tab=followers)
 
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 **BCA Graduate 2026** — Data Science & AI\
 🏛️ Babu Banarasi Das University, Lucknow\
@@ -53,11 +53,11 @@ const shubham = {
     tools:       ["Git", "GitHub", "Power BI", "Tableau", "VS Code"],
   },
   projects:      ["MedExplain AI"],
-  certifications:["IBM × 4", "Deloitte × 1"],
+  certifications:["IBM x 4", "Deloitte x 1"],
   currentFocus:  "AI Integration + Django Backend Development",
   status:        "Actively looking for Fresher Software Developer roles",
-  openTo:        ["Full-time", "Internship", "AI & Data roles"],
-  motto:         "Build real things. Keep learning. Ship it. 🚀",
+  openTo:        ["Full-time", "Internship", "AI and Data roles"],
+  motto:         "Build real things. Keep learning. Ship it.",
 };
 ```
 
@@ -67,23 +67,23 @@ const shubham = {
 
 <div align="center">
 
-### 🏥 MedExplain AI
-#### *AI that reads your medical reports so you don't have to*
+### MedExplain AI
+#### AI that reads your medical reports so you do not have to
 
 </div>
 
-> An AI-powered full-stack Django web application that converts complex medical lab reports into plain-language explanations using Meta LLaMA 3 via Groq API — with secure authentication, OCR text extraction, and a clean responsive UI.
+> An AI-powered full-stack Django web application that converts complex medical lab reports into plain-language explanations using Meta LLaMA 3 via Groq API with secure authentication, OCR text extraction, and a clean responsive UI.
 
 <div align="center">
 
 | Layer | Technology |
 |:---:|:---|
-| 🐍 Backend | Python, Django 4.2, Django ORM |
-| 🤖 AI Model | LLaMA 3 via Groq API |
-| 🔍 OCR | Pytesseract, PIL |
-| 🗄️ Database | SQLite3, REST API |
-| 🎨 Frontend | HTML5, CSS3, JavaScript |
-| 🔐 Security | Django Auth, CSRF Protection |
+| Backend | Python, Django 4.2, Django ORM |
+| AI Model | LLaMA 3 via Groq API |
+| OCR | Pytesseract, PIL |
+| Database | SQLite3, REST API |
+| Frontend | HTML5, CSS3, JavaScript |
+| Security | Django Auth, CSRF Protection |
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/shubhamshrivastav477-creator/MedExplain-AI)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/shubhamshrivastav477-creator/MedExplain-AI)
@@ -101,20 +101,20 @@ const shubham = {
 
 <div align="center">
 
-**💻 Languages**
+**Languages**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**🌐 Web & Backend**
+**Web and Backend**
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![REST API](https://img.shields.io/badge/REST%20API-7dd3fc?style=for-the-badge&logoColor=black)](https://restfulapi.net)
 
-**🤖 AI & Machine Learning**
+**AI and Machine Learning**
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org)
 [![NLP](https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge&logoColor=black)](https://github.com/shubhamshrivastav477-creator)
@@ -123,10 +123,9 @@ const shubham = {
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-22c55e?style=for-the-badge&logoColor=white)](https://github.com/shubhamshrivastav477-creator)
 [![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white)](https://console.groq.com)
 
-**🗄️ Database & Tools**
+**Database and Tools**
 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamshrivastav477-creator)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
@@ -176,37 +175,37 @@ const shubham = {
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
-<b>🏅 Data Science 101</b><br/>
+<b>Data Science 101</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
-<b>🏅 Python 101 for Data Science</b><br/>
+<b>Python 101 for Data Science</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
-<b>🏅 Predictive Modeling Fundamentals</b><br/>
+<b>Predictive Modeling Fundamentals</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
-<b>🏅 NoSQL & DBaaS 101</b><br/>
+<b>NoSQL and DBaaS 101</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /><br/>
-<b>🏅 Data Analytics Job Simulation</b><br/>
-<sub>Deloitte — Forage</sub>
+<b>Data Analytics Job Simulation</b><br/>
+<sub>Deloitte via Forage</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.shields.io/badge/BBDU-7dd3fc?style=for-the-badge&logoColor=black" /><br/>
-<b>🎓 BCA Graduate</b><br/>
-<sub>Data Science & AI — 2026</sub>
+<b>BCA Graduate 2026</b><br/>
+<sub>Data Science and AI</sub>
 </td>
 </tr>
 </table>
@@ -219,17 +218,15 @@ const shubham = {
 
 <div align="center">
 
-![Quote](https://img.shields.io/badge/💡%20Quote%20of%20the%20Day-1c1c1c?style=for-the-badge)
-
 ```
-"First, solve the problem.
-      Then, write the code."
-                  — John Johnson
+  "First, solve the problem.
+   Then, write the code."
+              — John Johnson
 ```
 
-![](https://img.shields.io/badge/Keep%20Building-7dd3fc?style=flat-square)
-![](https://img.shields.io/badge/Keep%20Learning-22c55e?style=flat-square)
-![](https://img.shields.io/badge/Keep%20Shipping-F55036?style=flat-square)
+[![Build](https://img.shields.io/badge/Keep%20Building-7dd3fc?style=flat-square&logoColor=black)](https://github.com/shubhamshrivastav477-creator)
+[![Learn](https://img.shields.io/badge/Keep%20Learning-22c55e?style=flat-square)](https://github.com/shubhamshrivastav477-creator)
+[![Ship](https://img.shields.io/badge/Keep%20Shipping-F55036?style=flat-square)](https://github.com/shubhamshrivastav477-creator)
 
 </div>
 
@@ -250,10 +247,6 @@ const shubham = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-![](https://img.shields.io/badge/🚀%20Build-7dd3fc?style=flat-square)
-![](https://img.shields.io/badge/📚%20Learn-22c55e?style=flat-square)
-![](https://img.shields.io/badge/🛳️%20Ship-F55036?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:833ab4&height=100&section=footer" width="100%"/>
 
 </div>
