@@ -202,7 +202,7 @@ const shubham = {
 <sub>IBM Developer Skills Network</sub>
 </td>
 <td align="center" width="200">
-<a href="https://www.credly.com/go/h2lLzm55">
+<a href="https://github.com/shubhamshrivastav477-creator/shubhamshrivastav477-creator/blob/main/IBM_Cognos_Analytics_Certificate.pdf.pdf">
 <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
 <b>IBM Cognos Analytics V11.1.x</b><br/>
 <sub>IBM via Credly</sub>
