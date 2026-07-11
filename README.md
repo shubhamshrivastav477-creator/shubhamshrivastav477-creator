@@ -53,7 +53,7 @@ const shubham = {
     tools:       ["Git", "GitHub", "Power BI", "Tableau", "VS Code"],
   },
   projects:      ["MedExplain AI"],
-  certifications:["IBM x 4", "Deloitte x 1"],
+  certifications:["IBM x 5", "Deloitte x 1"],
   currentFocus:  "AI Integration + Django Backend Development",
   status:        "Actively looking for Fresher Software Developer roles",
   openTo:        ["Full-time", "Internship", "AI and Data roles"],
@@ -175,37 +175,43 @@ const shubham = {
 
 <table>
 <tr>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<td align="center" width="200">
+<a href="https://courses.bbdu.skillsnetwork.site/certificates/7c4bce219a474aaaac9986c1b7fac49a">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
 <b>Data Science 101</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<td align="center" width="200">
+<a href="https://courses.bbdu.skillsnetwork.site/certificates/11cc767cc54a4656989d162b7bbc82e8">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
 <b>Python 101 for Data Science</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<td align="center" width="200">
+<a href="https://courses.bbdu.skillsnetwork.site/certificates/8c5f14e2784e4d5ea778be9d5c6c5cea">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
 <b>Predictive Modeling Fundamentals</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<td align="center" width="200">
+<a href="https://courses.bbdu.skillsnetwork.site/certificates/27187af3e1554fc69103a668b9a76d6b">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
 <b>NoSQL and DBaaS 101</b><br/>
 <sub>IBM Developer Skills Network</sub>
 </td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /><br/>
+<td align="center" width="200">
+<a href="https://www.credly.com/go/h2lLzm55">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a><br/>
+<b>IBM Cognos Analytics V11.1.x</b><br/>
+<sub>IBM via Credly</sub>
+</td>
+<td align="center" width="200">
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6957f608beda68c47310e73a_1767379969058_completion_certificate.pdf?raw=1">
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /></a><br/>
 <b>Data Analytics Job Simulation</b><br/>
 <sub>Deloitte via Forage</sub>
-</td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/BBDU-7dd3fc?style=for-the-badge&logoColor=black" /><br/>
-<b>BCA Graduate 2026</b><br/>
-<sub>Data Science and AI</sub>
 </td>
 </tr>
 </table>
